@@ -1,0 +1,11 @@
+Objective: Understanding why people who receive treatment instructions do not show up at the next appointment time
+
+https://towardsdatascience.com/exploratory-analysis-python-kaggle-data-b0afb6ec1788
+
+
+- What is the ratio of people who miss appointments to those who don’t?
+- Who don’t show up more often — men or women?
+- What is the most popular month/day/hour for not showing up?
+- What is the age distribution of patients?
+- What percent/ratio of patients with scholarship showed up / did not show up?
+- What percent showed up even after not receiving sms ?
