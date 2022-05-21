@@ -1,0 +1,7 @@
+Some of the insights are:
+- Electronic check medium are the highest churners
+- Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free-to-go customers.
+- No Online security and no Tech support category are high churners
+- Non senior Citizens are high churners
+- Some customers might be bound by long term contracts 
+(e.g. 1 year or 2-year prepaid plans), and this has bound the customers to not churn, this can be found in the Total Charges customers (where if a customer has paid a lot of money beforehand by paying for long term contract, he/she cannot change or cancel the service provider even the service is worse, so in this case, churn may reduce).
