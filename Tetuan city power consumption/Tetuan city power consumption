@@ -1,0 +1,7 @@
+https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city
+
+Power consumption of Tetouan city Data Set
+
+Abstract: This dataset is related to power consumption of three different distribution networks of Tetouan city which is located in north Morocco. 
+The data has 52,416 energy consumption datapoints in 10-minute windows beginning at January 1, 2017 (0:00) till 30 December 2017 (23:50). 
+The 3 zone power stations electrify 3 different areas of the city, thus there are 3 target variables.
